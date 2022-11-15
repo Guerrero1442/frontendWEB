@@ -1,0 +1,11 @@
+table i {
+  font-size: 20px;
+}
+
+table .bi-trash {
+  color: red;
+}
+
+table .bi-pencil-square {
+  color: aqua;
+}
